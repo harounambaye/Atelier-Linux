@@ -1,5 +1,9 @@
 # Atelier Linux — Préparation d'un environnement de développement IA
 
+## Livrable: Dans le dossier Livrable 
+### - Rapport_Atelier_Linux_Harouna_MBAYE.pdf
+### - setup_project.sh
+
 ## Contexte
 
 Dans le cadre de notre formation en IA promo 1 à la Sonatel Académie, nous
